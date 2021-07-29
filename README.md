@@ -6,37 +6,37 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ADITYAVOFFICIAL&theme=dark&hide_border=true" width = 400>
 </p>
- WELCOME TO THE CLIMCHAN WEBSITE  
+ WELCOME TO THE CLIMCHAN WEBSITE  <br>
 
-PROGRAM USED
->> HTML5, CSS
->> BOOTSTRAP V5
->> JQUERY
->> JAVASCRIPT
->> MS VISUAL STUDIO CODE
->> Windows 10 Version 21H1 X64
+PROGRAM USED<br>
+>> HTML5, CSS<br>
+>> BOOTSTRAP V5<br>
+>> JQUERY<br>
+>> JAVASCRIPT<br>
+>> MS VISUAL STUDIO CODE<br>
+>> Windows 10 Version 21H1 X64<br>
 
-$$DESCRIPTION$$
+$$DESCRIPTION$$<br>
 
-This website shares information on climate change (evidence, causes, effects and solutions ) 
-along with satellite images show the devastation and destruction caused by a change in climate 
-due to human interference with a quiz for the viewers. $ Mobile App also developed and available $ .
-Firstly to access the website use the link given below and click on let’s go and wait,
- it will redirect you to the main website.
+This website shares information on climate change (evidence, causes, effects and solutions ) <br>
+along with satellite images show the devastation and destruction caused by a change in climate <br>
+due to human interference with a quiz for the viewers. $ Mobile App also developed and available $ .<br>
+Firstly to access the website use the link given below and click on let’s go and wait,<br>
+ it will redirect you to the main website.<br>
 
-DURATION IN MAKING = 24 DAYS
-AUTHOR = ADITYA VERMA
-FINIALIZATION DATE = 25 JUNE 2021
+DURATION IN MAKING = 24 DAYS<br>
+AUTHOR = ADITYA VERMA<br>
+FINIALIZATION DATE = 25 JUNE 2021<br>
 
 
-</> FILE Count  </>
-total = 33
-HTML FILES = 29
-JS FILES = 3
-CSS FILES = 3
-sat images = 22
-main topic = 4
-MISC = 2
+</> FILE Count  </><br>
+total = 33<br>
+HTML FILES = 29<br>
+JS FILES = 3<br>
+CSS FILES = 3<br>
+sat images = 22<br>
+main topic = 4<br>
+MISC = 2<br>
 
 instagram = https://www.instagram.com/aditya_verma_real/ <br>
 TWITTER = https://twitter.com/ADITYAVOFFICIAL<br>
