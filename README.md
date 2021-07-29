@@ -38,6 +38,6 @@ sat images = 22
 main topic = 4
 MISC = 2
 
-instagram = https://www.instagram.com/aditya_verma_real/
-TWITTER = https://twitter.com/ADITYAVOFFICIAL
-GITHUB = https://github.com/ADITYAVOFFICIAL
+instagram = https://www.instagram.com/aditya_verma_real/ <br>
+TWITTER = https://twitter.com/ADITYAVOFFICIAL<br>
+GITHUB = https://github.com/ADITYAVOFFICIAL<br>
