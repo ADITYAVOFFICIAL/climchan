@@ -34,8 +34,8 @@ total = 33<br>
 HTML FILES = 29<br>
 JS FILES = 3<br>
 CSS FILES = 3<br>
-sat images = 22<br>
-main topic = 4<br>
+SAT IMAGES = 22<br>
+MAIN TOPIC = 4<br>
 MISC = 2<br>
 
 instagram = https://www.instagram.com/aditya_verma_real/ <br>
