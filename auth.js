@@ -18,5 +18,5 @@ setTimeout(function () {
             clearInterval(se);
             document.getElementsByTagName('div')[0].innerHTML = str;
         }
-    }, 5);
+    }, 3);
 }, 0);
